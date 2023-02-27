@@ -1,2 +1,3 @@
-# cupcakes
-Gateaux demonstration
+# Cupcakes
+
+These are gateaux demonstration projects
