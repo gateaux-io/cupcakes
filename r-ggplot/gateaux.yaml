@@ -1,0 +1,3 @@
+docker: rocker/tidyverse:4.2
+build: "cd analysis && Rscript plot_temperature.r"
+
